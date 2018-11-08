@@ -1,0 +1,35 @@
+body{
+background-color:teal;
+color:white;
+}
+.one {
+    font-family:"arail";
+    font-size:35px;
+}
+.two {
+    font-family:"arail";
+    font-size:35px;
+}
+.three {
+    font-family:"arail";
+    font-size:35px;
+}
+.four {
+    font-family:"arail";
+    font-size:35px;
+}
+h1 {
+    font-size:50px;
+}
+img.wat {
+  width:200px;
+  height:300px;
+}
+img.tt {
+  width:500px;
+  height:200px;
+}
+img.yy {
+  width:600px;
+  height:200px;
+}
